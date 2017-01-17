@@ -5,8 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.webkit.WebView;
 import android.widget.Toast;
 
-import com.example.rohit.spinwheel_js.R;
-
 /**
  * Created by amrut.bidri on 1/2/2017.
  */
